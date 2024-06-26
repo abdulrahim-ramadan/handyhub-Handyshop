@@ -20,7 +20,7 @@ Explore a live demo of HandyHub Handyshop [here](https://abdulrahim-ramadan.gith
 
 ## Screenshots
 
-![Project Demo](screenshot.png)
+![project demo](Screenshot.png)
 
 ## Technologies Used
 
@@ -69,4 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ##_ Demo
-![project demo](Screenshot.png)
+
