@@ -47,7 +47,7 @@ Explore a live demo of HandyHub Handyshop [here](https://abdulrahim-ramadan.gith
 
 4. **Run the Application:**
 
-   - Use a local server (e.g., Apache) and open `index.htmal`.
+   - Use a local server (e.g., Apache) and open `index.html`.
 
 ## Admin Access
 
