@@ -2,11 +2,11 @@
 
 Welcome to HandyHub Handyshop! This project simulates a mobile phone shop and serves as a learning exercise in web development.
 
-## Description
+### Description
 
 HandyHub is a simple e-commerce website showcasing basic functionalities of an online mobile phone store.
 
-## Features
+### Features
 
 - **Product Listing:** Display of available products.
 - **Shopping Cart:** Functionality to add products to cart.
