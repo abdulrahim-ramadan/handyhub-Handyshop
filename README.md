@@ -51,8 +51,8 @@ Explore a live demo of HandyHub Handyshop [here](https://abdulrahim-ramadan.gith
 
 ## Admin Access
 
-- Username: admin
-- Password: admin
+- Username: Ramadan 
+- Password: *********
 
 ## Contributors
 
